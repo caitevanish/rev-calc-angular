@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+h1,
+h3 {
+  text-align: center;
+}
+
+.container {
+  height: 100vh;
+  margin-top: 2rem;
+  margin-right: auto;
+  margin-left: auto;
+  /* border-style: solid; */
+}
